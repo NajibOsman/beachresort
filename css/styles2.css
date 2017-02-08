@@ -5,7 +5,8 @@
   font-style: oblique;
 }
 .important {
-  border-color: green;
-  background-color: brown;
+  border-spacing: 3px;
+  background-color: default;
   text-align: center;
+  font-size: 250%
 }
