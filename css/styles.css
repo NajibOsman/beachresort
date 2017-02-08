@@ -1,0 +1,22 @@
+h1{
+  background-color: inherit;;
+  color: red;
+  text-align:center;
+  }
+
+  h2{
+    color:red;
+    background-color: inherit;
+    fonts: italic;
+    text-align: center;
+  }
+  p{
+    font-family: sans-serif;
+  }
+  body{
+    background-color: powderblue;
+  }
+  ul{
+    font-size:20px;
+    line-height:30px:
+  }
