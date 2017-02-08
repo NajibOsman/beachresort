@@ -4,3 +4,8 @@
   width: 150%;
   font-style: oblique;
 }
+.important {
+  border-color: green;
+  background-color: brown;
+  text-align: center;
+}
